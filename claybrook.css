@@ -1,0 +1,13 @@
+h1{
+    color: white;
+    background-color: #c1d32f;
+}
+li{
+    color: white;
+    background-color: #014e2e;
+    text-decoration: none;
+}
+nav ul {
+    display: flex;
+    justify-content: space-around;
+}
