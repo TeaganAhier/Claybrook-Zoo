@@ -5,9 +5,11 @@ h1{
 li{
     color: white;
     background-color: #014e2e;
+
     text-decoration: none;
 }
-nav ul {
+.mainNav ul {
     display: flex;
+    background-color: #014e2e;
     justify-content: space-around;
 }
